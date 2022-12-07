@@ -24,3 +24,27 @@ Light_data = map(sensorValue, 0, 1023, 0, 9);
 myGLCD.setColor(255, 255, 255);
 
 myGLCD.print(String(Light_data), CENTER, 10);
+
+FONT_V04 :
+0.gps
+
+1.blutoth
+
+2.315
+
+3.433
+
+4.batri shrging
+
+5.internet
+
+6.call
+
+7.sms
+
+8.no ring
+
+9.batry full
+
+---------------------------------------------------------------------
+

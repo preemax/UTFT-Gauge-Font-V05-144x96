@@ -6,6 +6,7 @@ in your project insert this code
 extern uint8_t font_gauge_144x96_v05[];
 ofther config your lcd
 ----------------------------
+----------------------------
 to active font use this code
 myGLCD.setFont(SmallFont);
 To use this font, the information must be converted to numbers between 0 and 9

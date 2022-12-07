@@ -26,6 +26,7 @@ myGLCD.setColor(255, 255, 255);
 myGLCD.print(String(Light_data), CENTER, 10);
 
 FONT_V04 :
+*******************************************
 0.gps
 
 1.blutoth
